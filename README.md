@@ -20,4 +20,12 @@ Built with **HTML, CSS, and JavaScript** using the Fetch API.
 
 ---
 
+## 🌐 Live Demo
+👉 [Click here to try it!](https://shirisha868.github.io/JokeGenerator/)  
 
+---
+
+## 📦 Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Shirisha868/JokeGenerator.git
